@@ -1,0 +1,31 @@
+body {
+  background-color: #f0f2f5;
+  color: #1f2328;
+  margin: 0;
+  padding: 24px;
+}
+
+.report {
+  max-width: 720px;
+  margin: 0 auto;
+  padding: 24px;
+}
+
+.summary-card {
+  background-color: #ffffff;
+  border: 1px solid #d0d7de;
+  padding: 12px;
+  margin: 8px 0;
+}
+
+.result-item {
+  background-color: #ddf4ff;
+  border: 1px solid #54aeff;
+  padding: 8px 12px;
+  margin: 6px 0;
+}
+
+.result-name {
+  color: #0550ae;
+  font-weight: bold;
+}
